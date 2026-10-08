@@ -1,5 +1,6 @@
 # xet-download-skill
 - 基于 CodeX 的`Compuser Use`与[猫爪插件](https://github.com/xifangczy/cat-catch)
+- 使用前请将`账号密码`放入谷歌浏览器`自动填充`中
 - 推荐模型 `GPT 5.6 sol` / `GPT 6 Astra` / `Grok 4.7` / `Claude Haiku 5.5`
 
 
